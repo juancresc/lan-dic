@@ -14,3 +14,7 @@ data/genomes/zavitan.gff3
 
 TD[N] Landgon-Dic reads Nth replica (diccocoides)
 TL[N] Landgon reads Nth replica (durum)
+
+
+grep "gene" zavitan.gff3| wc -l
+338361
